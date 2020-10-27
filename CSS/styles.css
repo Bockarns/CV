@@ -1,8 +1,9 @@
 /*********************TAG SELECTOR***************************/
-  body {
+ body {
     background-image: url("Bakgrund.png");
+    background-position: top;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
     background-color: #d9e4dd;
   }
