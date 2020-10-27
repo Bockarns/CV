@@ -1,0 +1,55 @@
+/*********************TAG SELECTOR***************************/
+  body {
+    background-image: url("Bakgrund.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-color: #d9e4dd;
+  }
+
+  button{
+    border-style: none;
+    border-radius: 50%;
+    background-color: lightgray;
+    text-align: center;
+  }
+  button:hover{
+        background-color: gray;
+    text-decoration: underline;
+  }
+
+  h1 {
+    color: #66BFBF;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+  }
+  h3{
+    color: #66BFBF;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  img{
+    object-fit: scale-down; max-width: 100%
+  }
+  td{
+    border-bottom-style:groove;
+  }
+
+/*********************CLASS SELECTOR***************************/
+
+  .buttons{
+    text-align: center;
+  }
+  .button:hover{
+    text-decoration: underline;
+  }
+  .Hi{
+    border-style: none;
+  }
